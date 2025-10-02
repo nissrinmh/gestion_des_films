@@ -1,0 +1,6 @@
+
+.filter-select option {
+   background-color: var(--dark-bg);
+  color: var(--text-primary);
+  padding: 8px;
+}
