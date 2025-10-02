@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CineMagique/static/css/main.b14a8856.css",
+    "main.js": "/CineMagique/static/js/main.737158ca.js",
+    "static/js/488.0f0ed6c0.chunk.js": "/CineMagique/static/js/488.0f0ed6c0.chunk.js",
+    "index.html": "/CineMagique/index.html",
+    "main.b14a8856.css.map": "/CineMagique/static/css/main.b14a8856.css.map",
+    "main.737158ca.js.map": "/CineMagique/static/js/main.737158ca.js.map",
+    "488.0f0ed6c0.chunk.js.map": "/CineMagique/static/js/488.0f0ed6c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b14a8856.css",
+    "static/js/main.737158ca.js"
+  ]
+}
