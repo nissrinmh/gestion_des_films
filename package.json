@@ -2,7 +2,7 @@
   "name": "filmographie",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nissrinmahan.github.io/fillmographie",
+  "homepage": "https://nissrinmh.github.io/gestion_des_films",
   "dependencies": {
     "cra-template": "1.2.0",
     "framer-motion": "^12.23.22",
